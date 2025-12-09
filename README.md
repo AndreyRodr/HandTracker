@@ -142,16 +142,6 @@ Este módulo foca na classificação de imagens estáticas (frames individuais) 
 
 -----
 
-## 📊 Resultados e Métricas
-
-### Matriz de Confusão (Modelo Dinâmico)
-
-Abaixo está a performance do modelo dinâmico na classificação das classes treinadas, mostrando onde a IA acerta e onde ela confunde os gestos:
-
-*Nota: A diagonal azul escura indica alto índice de acerto para as classes correspondentes.*
-
------
-
 ## 🧠 Tecnologias Utilizadas
 
   * **Linguagem:** Python
