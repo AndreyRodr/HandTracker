@@ -1,0 +1,5 @@
+--- MÉTRICAS FINAIS DO TESTE ---
+Loss Final: 0.0960
+Acurácia Final: 0.9643
+Precisão Média (Weighted Avg): 0.9700
+Recall Médio (Weighted Avg): 0.9643
